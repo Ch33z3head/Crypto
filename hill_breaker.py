@@ -1,4 +1,9 @@
-#************************************************   
+#************************************************
+#* This script decrypt this cipher text 
+#* that was determined to by encrypted
+#* with Hill a 2x2 cipher through analysis
+#*************************************************
+
 index = 0       
 bestscore = 0
 
