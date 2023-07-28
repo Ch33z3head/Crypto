@@ -1,7 +1,8 @@
 #************************************************
-#* This script decrypt this cipher text 
-#* that was determined to by encrypted
-#* with Hill a 2x2 cipher through analysis
+#* Jamie Grunewald - 7/27/2023 
+#* This script will decrypt a cipher text 
+#* that was determined to be encrypted
+#* with a Hill 2x2 matrix cipher 
 #*************************************************
 
 index = 0       
