@@ -16,7 +16,8 @@ def get_iv():
 
 def encrypt_image(in_mode, secret_key, iv):
     mode = in_mode.upper()
-    img= Image.open('C:\cygwin64\home\Jamie\Crypto\Mod 3\Champs.png')
+    #img= Image.open('C:\cygwin64\home\Jamie\Crypto\Mod 3\Champs.png')
+    img= Image.open('Champs.png')
     
     imgData = img.tobytes()   
      
@@ -32,7 +33,8 @@ def encrypt_image(in_mode, secret_key, iv):
     ct=cipher.encrypt(imgData)
     img.frombytes(ct)
     
-    img.save("C:\cygwin64\home\Jamie\Crypto\Mod 3\ENC_"+mode+"_Champs.png")    
+    #img.save("C:\cygwin64\home\Jamie\Crypto\Mod 3\ENC_"+mode+"_Champs.png")
+    img.save("ENC_"+mode+"_Champs.png")
     print("Encrytped file was saved.")   
     return 
 
@@ -66,16 +68,17 @@ print("*                                          *")
 print("********************************************")
 
 
-input_mode= input("Please enter encrytion mode: ")
+input_mode = input("Please enter encrytion mode: ")
 
 UPPR_mode = input_mode.upper()
 
-if UPPR_mode == 'ECB':
-    in_mode = input_mode
+if UPPR_mode.upper() == 'ECB':
+    #print(UPPR_mode)
+    in_mode = UPPR_mode
 elif UPPR_mode.upper() =='OFB':
-    in_mode = input_mode.upper()
+    in_mode = UPPR_mode
 elif UPPR_mode.upper() == 'GCM':
-    in_mode = input_mode
+    in_mode = UPPR_mode
 else:
     print("You have not selected the proper mode, try again!")
 
