@@ -1,4 +1,4 @@
-_+**What take-away lessons did you learn in this experience?**
++**What take-away lessons did you learn in this experience?**
 1. CTR and OFB, you don’t need to worry about padding.
 1. CTR and OFB– use AES to generate numbers, XOR them into the plaintext
 1. OFB uses serialization for encrypting blocks.
@@ -6,11 +6,11 @@ _+**What take-away lessons did you learn in this experience?**
 1. If you encrypt the same image more than once, there should be differences
 1. Do not use ECB exclusively.
 **+Which of your modes is good enough for nation-state security?**
-From what I understand, GCM mode, what's being sent through the block cipher doesn't actually depend on the data being encrypted.
+1. From what I understand, GCM mode, what's being sent through the block cipher doesn't actually depend on the data being encrypted.
 **+How would you rate your effort on this project?**
-I would rate this project as “easy” juxtapose to the Blackhat madness and the ECDHKE project (Proj 3).
+1. I would rate this project as “easy” juxtapose to the Blackhat madness and the ECDHKE project (Proj 3).
 **+How many hours were you able to give it?**
-I spent less than five hours._
+1. I spent less than five hours._
 
 HOWTO:
 This script will prompt you to enter one of three encytpion modes.
