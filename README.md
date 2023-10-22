@@ -10,7 +10,7 @@
 **How would you rate your effort on this project?**
 1. I would rate this project as “easy” juxtapose to the Blackhat madness and the ECDHKE project (Proj 3).
 **How many hours were you able to give it?**
-1. I spent less than five hours._
+1. I spent less than five hours.
 
 HOWTO:
 This script will prompt you to enter one of three encytpion modes.
