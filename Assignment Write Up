@@ -1,4 +1,4 @@
-**# What take-away lessons did you learn in this experience?**
+**What take-away lessons did you learn in this experience?**
 1. CTR and OFB, you don’t need to worry about padding.
 1. CTR and OFB– use AES to generate numbers, XOR them into the plaintext
 1. OFB uses serialization for encrypting blocks.
