@@ -61,6 +61,7 @@ print("********************************************")
 print("*                                          *")
 print("* Please use three of the following modes: *")
 print("*              ECB, OFB, GCM               *")            
+print("*           By: Jamie Grunewald            *")
 print("*                                          *")
 print("********************************************")
 
