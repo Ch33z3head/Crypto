@@ -1,6 +1,6 @@
 _**What take-away lessons did you learn in this experience?**
 	•	CTR and OFB, you don’t need to worry about padding.
-	•	CTR and OFB– use AES to generate numbers, XOR them into the plaintext 
+	•	CTR and OFB– use AES to generate numbers, XOR them into the plaintext https://github.com/Ch33z3head/Crypto/blob/Mod-2/README.md
 	•	OFB uses serialization for encrypting blocks.
 	•	IV needs random and unique every iteration. 
 	•	If you encrypt the same image more than once, there should be differences
