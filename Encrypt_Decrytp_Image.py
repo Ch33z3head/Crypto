@@ -13,7 +13,6 @@ def get_iv():
     iv =os.urandom(16)
     return iv
 
-
 def encrypt_image(in_mode, secret_key, iv):
     mode = in_mode.upper()
     #img= Image.open('C:\cygwin64\home\Jamie\Crypto\Mod 3\Champs.png')
