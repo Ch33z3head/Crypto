@@ -17,7 +17,7 @@ Applied Crypto class work
 
 ### HOWTO:
  1. This script (Encrypt_Decrytp_Image.py) will prompt you to enter one of three encytpion modes. - https://github.com/Ch33z3head/Crypto/blob/Assignment-2/Encrypt_Decrypt_Image.py
- 2. The image Champs.png that I used for this exercise has been provided.
+ 2. The image (Champs.png) that I used for this exercise has been provided.
  3. The read and write pathes may need to be updated to suite your envivronment.
  4. Once a mode has been entered two files will be generated, an encrypted and decrypted version of the orignal file.
 
