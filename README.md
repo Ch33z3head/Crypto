@@ -1,4 +1,4 @@
-Assignment 3 Write up - lliptic Curve Diffie-Hellman exchange
+# Assignment 3 Write up - lliptic Curve Diffie-Hellman exchange
 
 Final Project Tasks
 
