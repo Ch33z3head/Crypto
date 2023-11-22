@@ -1,3 +1,9 @@
+########################################
+#           Jamie Grunewald
+#      sript to get aquianted with
+#         code concepts
+########################################
+
 from PIL import Image
 import os
 from Crypto.Cipher import AES
