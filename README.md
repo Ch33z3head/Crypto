@@ -9,7 +9,7 @@ Given my initial pedestrian knowledge of python and algebra, it was a challenge.
 
 Of the ciphers, for whatever reason, Transposition is giving me grief.  Mainly getting the loops and building out the matrix.  I didn’t go after Playfair and definitely not Vigenère.  From the notes and reading, cracking it is a bit more intensive, finding the IoC, key length, Caesar shift, then you can applied.  Then you can perform a dictionary/statistical attack.  Even though upfront, decryption is the inverse of encryption, putting it to code, was challenging.
 
-_Why?_**
+**_Why?_**
 
 **_How would you rate your effort on this project?  _**
 Given my initial skill level entering this project and what it took to get me where I am now.  It was hell, frustrating, but rewarding when the quintessential lightbulb went off. I had to level up and deep dive into python, relearn my algebra for some of the equations, coupled with learning new topics, such as shotgun hill climbing.  I have to admit, when I started delving into the topic after it was mentioned as good technique to crack, Substitution, Hill, Col Transposition, and Playfair.  In the end, it was touch and rewarding for not only for the academic gain, but a personal sense of accomplishment.  I have done something I did not I could. I have confidence and a thirst for more.
