@@ -1,10 +1,19 @@
 # Assignment 1 Write up - Blackhat Email Challenge
 
-HowTo:
+**HowTo:**
+
 To run my "breaker" scripts, ensure to also download the "words.txt" file which is called for the fitness funtion.
 
 To gather cipher statistics, run the Stats_Gathering.py script.  Output has is just under each ciphertext blcok.
 Also, note that each ciphertext has been identified along with notes supporting my decision.
+
+**Scripts:**
+
+My attemps were to break, 
+Hill Cipher, Launch script: [ Proj 1 Hill Breaker FINAL.py
+Subsitution Cipher, Proj 1 Substiution Breaker FINAL.py
+My attempt to break Col Transposition can be, Proj 1 Col Transp Breaker NOT FINAL.py
+
 
 **_Once the course starts, I'll send you 5 encrypted emails that you must decrypt.  Submit to me your answers, your code, and a quick write-up including:
 What take-away lessons did you learn in this experience?_**
