@@ -1,4 +1,4 @@
-# Assignment 1 Write up - Blackhat Email Challenge
+# Project 1 Write up - Blackhat Email Challenge
 
 **HowTo:**
 
