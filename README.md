@@ -5,5 +5,5 @@ This repository contains the project deliverables to satisfy the assignment requ
 
 **Project 2** - Craft a python script to encrypt and decrypt an image using the AES modes.
 
-Project 3 - Craft a script to simulate a ECDH key exchange incorporating deriving a shared key, send a message, encrypt the message using AES GCM mode, and pefomr RSA signing/verifying of the blocks of data to to ensure it message was not tampered with. That can happen with a
+**Project 3** - Craft a script to simulate a ECDH key exchange incorporating deriving a shared key, send a message, encrypt the message using AES GCM mode, and pefomr RSA signing/verifying of the blocks of data to to ensure it message was not tampered with. That can happen with a
 [Man-in-the-middle-attack](https://en.wikipedia.org/wiki/Man-in-the-middle_attack). 
