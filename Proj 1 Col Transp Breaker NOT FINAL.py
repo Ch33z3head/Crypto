@@ -3,7 +3,7 @@
 #           Jamie Grunewald
 #
 # This code is non functional yet
-# close..... not that just there yet.
+# close..... not there there yet.
 ####################################
 import math
 import random
