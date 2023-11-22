@@ -1,3 +1,9 @@
+########################################
+#           Jamie Grunewald
+#        Applied Crypto - Proj 3
+# Elliptic Curve Diffie-Hellman exchange 
+########################################
+
 from base64 import b64encode
 from Crypto.Hash import SHA256
 from Crypto.Cipher import AES
