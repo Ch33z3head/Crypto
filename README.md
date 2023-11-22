@@ -1,7 +1,7 @@
 # Overiew
 This repository contains the project deliverables to satisfy the assignment requirements for the Applied Cryptography class.
 
-**Project 1** - Attempt to decrypt five cipher texts.  This is accomplished by performing analysis to determine the type of encryption algorithm that was used and then craft a python script to decrpyt the cipher text and generate the decrypted plain text.
+**Project 1** - Attempt to decrypt five cipher texts.  This is accomplished by performing analysis on the cipher text to determine the type of encryption algorithm  was used and then craft a python script to decrpyt the cipher text and generate the decrypted plain text.
 
 **Project 2** - Craft a python script to encrypt and decrypt an image using the AES modes.
 
