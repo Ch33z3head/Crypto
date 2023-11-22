@@ -1,4 +1,4 @@
-# Assignment 3 Write up - Elliptic Curve Diffie-Hellman exchange
+# Assignment 3 Write up - Elliptic Curve Diffie-Hellman Exchange
 
 ### HowTo:
 
