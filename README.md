@@ -1,4 +1,4 @@
-# Assignment 3 Write up - lliptic Curve Diffie-Hellman exchange
+# Assignment 3 Write up - Elliptic Curve Diffie-Hellman exchange
 
 Final Project Tasks
 
@@ -8,7 +8,7 @@ For the final assignment I want you to build procedures that allow you to perfor
 * Validate the RSA digital signature of the packets you receive. (Module 6)
 * Once you have a shared key encrypt a message using AES in GCM mode (not in our notes but not too different). (Module 3)
 * If you can pull that off (even as both sides of the conversation) then you'll have done a full industry ready HTTPS packet encryption.
-* Here is an online site you can use to validate your ECDH parameters:  http://www-cs-students.stanford.edu/~tjw/jsbn/ecdh.htmlLinks to an external site.
+* Here is an online site you can use to validate your ECDH parameters: [Click](http://www-cs-students.stanford.edu/~tjw/jsbn/ecdh.html) Links to an external site.
 Good luck!
 
 How-To:
