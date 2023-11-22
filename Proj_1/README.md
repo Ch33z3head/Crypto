@@ -2,7 +2,7 @@
 
 **HowTo:**
 
-To run my "breaker" scripts, ensure to also download the "words.txt" file which is called for the fitness funtion.
+To run my "breaker" scripts, ensure to also download the [words.txt](https://github.com/Ch33z3head/Crypto/blob/main/Proj_1/words.txt) file which is called for the fitness funtion.
 
 To gather cipher statistics, run the [Stats_Gathering.py](https://github.com/Ch33z3head/Crypto/blob/main/Proj_1/Stats_Gathering.py)script.  Output has is just under each ciphertext blcok.
 Also, note that each ciphertext has been identified along with notes supporting my decision.
