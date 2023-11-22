@@ -54,8 +54,8 @@ def __keyswap_key(key):
 '''
 
 def common_words_list():
-    #with open('words.txt', "r") as f:
-    with open('dictionary.txt', "r") as f:
+    with open('words.txt', "r") as f:
+    #with open('dictionary.txt', "r") as f:
         text = f.read()
         w_list = text.lower()
         word_list = text.split()
