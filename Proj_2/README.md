@@ -11,9 +11,9 @@ Applied Crypto class work
 * **Which of your modes is good enough for nation-state security?**
   1. From what I understand, GCM mode, what's being sent through the block cipher doesn't actually depend on the data being encrypted.
 **How would you rate your effort on this project?**
-  1. I would rate this project as “easy” juxtapose to the Blackhat madness and the ECDHKE project (Proj 3).
+  I would rate this project as “easy” juxtapose to the Blackhat madness and the ECDHKE project (Proj 3).
 **How many hours were you able to give it?**
-  1. I spent less than five hours.
+  I spent less than five hours.
 
 ### HowTo:
  1. This script  [Proj_2/Proj_2_Encrypt_Decrypt_Image_FINAL.py](https://github.com/Ch33z3head/Crypto/blob/main/Proj_2/Proj_2_Encrypt_Decrypt_Image_FINAL.py) will prompt you to enter one of three encytpion modes. -
