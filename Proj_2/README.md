@@ -11,8 +11,10 @@ Applied Crypto class work
 * **Which of your modes is good enough for nation-state security?**
   1. From what I understand, GCM mode, what's being sent through the block cipher doesn't actually depend on the data being encrypted.
 * **How would you rate your effort on this project?**
+
   I would rate this project as “easy” juxtapose to the Blackhat madness and the ECDHKE project (Proj 3).
 * **How many hours were you able to give it?**
+
   I spent less than five hours.
 
 ### HowTo:
