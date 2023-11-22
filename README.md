@@ -1,5 +1,4 @@
-Crypto
-Applied Crypto class work
+# Assignment 1 Write up - Blackhat email challenge
 
 Mod 1 - Blackhat Email Crack
 
