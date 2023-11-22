@@ -9,5 +9,5 @@ For the final assignment I want you to build procedures that allow you to perfor
 * Here is an online site you can use to validate your ECDH parameters:  http://www-cs-students.stanford.edu/~tjw/jsbn/ecdh.htmlLinks to an external site.
 Good luck!
 
-How-To
-Simply execute the script and following the prompts.
+How-To:
+Simply execute the Proj 3_final_EDHKE.py script and following the prompts.
