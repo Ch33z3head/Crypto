@@ -2,7 +2,7 @@
 #
 # Jamie Grunewald
 # This is my substition ciphertxt cracker
-# using hilling methodology
+# using hilling climbing methodology
 #
 ########################################
 
