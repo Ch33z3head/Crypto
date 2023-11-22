@@ -2,6 +2,10 @@
 
 Final Project Tasks
 
+### HowTo:
+
+Simply execute the Proj 3_final_EDHKE.py script and following the prompts.
+
 For the final assignment I want you to build procedures that allow you to perform an:
 * Elliptic Curve Diffie-Hellman exchange to establish a shared secret.  Use a NIST approved curve. (Module 5)
 * For each chunk of public information sent generate an RSA Digital Signature. (Module 6)
@@ -10,7 +14,3 @@ For the final assignment I want you to build procedures that allow you to perfor
 * If you can pull that off (even as both sides of the conversation) then you'll have done a full industry ready HTTPS packet encryption.
 * Here is an online site you can use to validate your ECDH parameters: [Click](http://www-cs-students.stanford.edu/~tjw/jsbn/ecdh.html) Links to an external site.
 Good luck!
-
-### HowTo:
-
-Simply execute the Proj 3_final_EDHKE.py script and following the prompts.
