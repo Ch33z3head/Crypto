@@ -15,8 +15,8 @@ Applied Crypto class work
 **How many hours were you able to give it?**
   1. I spent less than five hours.
 
-### HOWTO:
- 1. This script (Encrypt_Decrytp_Image.py) will prompt you to enter one of three encytpion modes. -Proj_2/Proj_2_Encrypt_Decrypt_Image_FINAL.py
+### HowTo:
+ 1. [This script (Encrypt_Decrytp_Image.py) will prompt you to enter one of three encytpion modes. -] (Proj_2/Proj_2_Encrypt_Decrypt_Image_FINAL.py)
  2. The image (Champs.png) that I used for this exercise has been provided.
  3. The read and write pathes may need to be updated to suite your envivronment.
  4. Once a mode has been entered two files will be generated, an encrypted and decrypted version of the orignal file.
