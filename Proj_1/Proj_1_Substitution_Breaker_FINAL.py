@@ -1,9 +1,7 @@
 #######################################
-#
 # Jamie Grunewald
 # This is my substition ciphertxt cracker
 # using hilling climbing methodology
-#
 ########################################
 
 from string import ascii_lowercase
