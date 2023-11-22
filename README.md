@@ -8,3 +8,6 @@ For the final assignment I want you to build procedures that allow you to perfor
 * If you can pull that off (even as both sides of the conversation) then you'll have done a full industry ready HTTPS packet encryption.
 * Here is an online site you can use to validate your ECDH parameters:  http://www-cs-students.stanford.edu/~tjw/jsbn/ecdh.htmlLinks to an external site.
 Good luck!
+
+How-To
+Simply execute the script and following the prompts.
