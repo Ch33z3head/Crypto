@@ -1,5 +1,11 @@
 # Assignment 1 Write up - Blackhat Email Challenge
 
+HowTo:
+To run my "breaker" scripts, ensure to also download the "words.txt" file which is called for the fitness funtion.
+
+To gather cipher statistics, run the Stats_Gathering.py script.  Output has is just under each ciphertext blcok.
+Also, note that each ciphertext has been identified along with notes supporting my decision.
+
 **_Once the course starts, I'll send you 5 encrypted emails that you must decrypt.  Submit to me your answers, your code, and a quick write-up including:
 What take-away lessons did you learn in this experience?_**
 
@@ -8,8 +14,6 @@ Given my initial pedestrian knowledge of python and algebra, it was a challenge.
 **_Which was the hardest to decrypt? Why?_**
 
 Of the ciphers, for whatever reason, Transposition is giving me grief.  Mainly getting the loops and building out the matrix.  I didn’t go after Playfair and definitely not Vigenère.  From the notes and reading, cracking it is a bit more intensive, finding the IoC, key length, Caesar shift, then you can applied.  Then you can perform a dictionary/statistical attack.  Even though upfront, decryption is the inverse of encryption, putting it to code, was challenging.
-
-
 
 **_How would you rate your effort on this project?_**
 
