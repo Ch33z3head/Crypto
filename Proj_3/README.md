@@ -2,7 +2,7 @@
 
 ### HowTo:
 
-Simply execute the Proj 3_final_EDHKE.py script and following the prompts.
+Simply execute the Proj 3_EDHKE_FINAL.py script and following the prompts.
 
 For the final assignment I want you to build procedures that allow you to perform an:
 * Elliptic Curve Diffie-Hellman exchange to establish a shared secret.  Use a NIST approved curve. (Module 5)
