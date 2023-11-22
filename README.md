@@ -109,8 +109,3 @@ Counter({'fa': 8, 'bc': 8, 'gl': 8, 'lx': 7, 'vj': 6, 'na': 6, 'tu': 6, 'do': 6,
 
 Decryption:
 141 wouldtheworldeverhavebeenmadeifitsmakerhadbeenafraidofmakingtroublemakinglifemeansmakingtroubleitsbutlittlegoodyoulldoawateringthelastyearscropthemindhasmanywatchdogssometimestheybarkunnecessarilybutawisemanneverignorestheirwarningmymeaningsimplyisthatwhateverihavetriedtodoinlifeihavetriedwithallmyhearttodowellthatwhateverihavedevotedmyselftoihavedevotedmyselftocompletelythatingreataimsandinsmallihavealwaysbeenthoroughlyinearnestfameisapearlmanydiveforandonlyafewbringupevenwhentheydoitisnotperfectandtheysighformoreandlosebetterthingsinstrugglingforthemwiselyandslowtheystumblethatrunfastf
-
- 
-
-
-To see the encoded text, run script hill_breaker.py for decryption. https://github.com/Ch33z3head/Crypto/blob/Mod-1/hill_breaker.py
