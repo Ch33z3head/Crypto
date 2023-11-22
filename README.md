@@ -12,4 +12,5 @@ For the final assignment I want you to build procedures that allow you to perfor
 Good luck!
 
 **HowTo:**
+
 Simply execute the Proj 3_final_EDHKE.py script and following the prompts.
