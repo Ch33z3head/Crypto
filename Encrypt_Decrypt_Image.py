@@ -1,3 +1,9 @@
+########################################
+#           Jamie Grunewald
+#        Applied Crypto - Proj 2
+#   Encrypt an Image with three modes 
+########################################
+
 from PIL import Image
 from Crypto.Cipher import AES
 import hashlib
