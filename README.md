@@ -1,4 +1,4 @@
-# Assignment 1 Write up - Blackhat email challenge
+# Assignment 1 Write up - Blackhat Email Challenge
 
 **_Once the course starts, I'll send you 5 encrypted emails that you must decrypt.  Submit to me your answers, your code, and a quick write-up including:
 What take-away lessons did you learn in this experience?_**
