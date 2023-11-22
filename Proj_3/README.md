@@ -1,7 +1,5 @@
 # Assignment 3 Write up - Elliptic Curve Diffie-Hellman exchange
 
-Final Project Tasks
-
 ### HowTo:
 
 Simply execute the Proj 3_final_EDHKE.py script and following the prompts.
