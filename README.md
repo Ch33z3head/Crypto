@@ -1,6 +1,6 @@
 Final Project Tasks
 
-For the final assignment I want you to build procedures that allow you to perform an
+For the final assignment I want you to build procedures that allow you to perform an:
 * Elliptic Curve Diffie-Hellman exchange to establish a shared secret.  Use a NIST approved curve. (Module 5)
 * For each chunk of public information sent generate an RSA Digital Signature. (Module 6)
 * Validate the RSA digital signature of the packets you receive. (Module 6)
