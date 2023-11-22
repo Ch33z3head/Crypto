@@ -22,7 +22,7 @@ Given my initial pedestrian knowledge of python and algebra, it was a challenge.
 
 **_Which was the hardest to decrypt? Why?_**
 
-Of the ciphers, for whatever reason, Transposition is giving me grief.  Mainly getting the loops and building out the matrix.  I didn’t go after Playfair and definitely not Vigenère.  From the notes and reading, cracking it is a bit more intensive, finding the IoC, key length, Caesar shift, then you can applied.  Then you can perform a dictionary/statistical attack.  Even though upfront, decryption is the inverse of encryption, putting it to code, was challenging.
+Of the ciphers, for whatever reason, Transposition is giving me grief.  Mainly getting the loops and building out the matrix.  I didn’t go after Playfair and definitely not Vigenère.  From the notes and reading, cracking cipher text is a bit more intensive, finding the IoC, key length, Caesar shift, then you can applied brute forcing.  Else you can perform a dictionary/statistical attack.  Even though, decryption is the inverse of encryption, putting it to code, was challenging. Between leveling up with the python, grasping how to implement a matrix along with getting th looping right just did me in.
 
 **_How would you rate your effort on this project?_**
 
