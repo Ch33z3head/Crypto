@@ -10,8 +10,8 @@ Also, note that each ciphertext has been identified along with notes supporting 
 **Scripts:**
 
 Ciphers I broke or attempted to break: 
-* Hill Cipher, execute script: [Proj 1 Hill Breaker FINAL.py](https://github.com/Ch33z3head/Crypto/blob/main/Proj_1/Proj_1_Hill_Breaker_FINAL.py)
-* Subsitution Cipher, execute script: [Proj 1 Substiution Breaker FINAL.py](https://github.com/Ch33z3head/Crypto/blob/main/Proj_1/Proj_1_Substitution_Breaker_FINAL.py)
+* Hill Cipher, execute script: [Proj 1 Hill Breaker FINAL.py](Proj_1/Proj_1_Hill_Breaker_FINAL.py)
+* Subsitution Cipher, execute script: [Proj 1 Substiution Breaker FINAL.py](Proj_1_Substitution_Breaker_FINAL.py)
 * My attempt to break Col Transposition can be: [Proj_1_Col_Transp_Breaker_NOT_FINAL.py](Proj_1_Col_Transp_Breaker_NOT_FINAL.py)
 
 
