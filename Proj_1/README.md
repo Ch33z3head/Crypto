@@ -15,23 +15,6 @@ Ciphers I broke or attempted to break:
 * My attempt to break Col Transposition can be: [Proj_1_Col_Transp_Breaker_NOT_FINAL.py](Proj_1_Col_Transp_Breaker_NOT_FINAL.py)
 
 
-**_Once the course starts, I'll send you 5 encrypted emails that you must decrypt.  Submit to me your answers, your code, and a quick write-up including:
-What take-away lessons did you learn in this experience?_**
-
-Given my initial pedestrian knowledge of python and algebra, it was a challenge.  Being introduced to techniques such as keyspace estimation. If you do not have a grasp on what you’re cracking, you maybe unknowingly cracking something that is not feasible and setting yourself to wasting efforts and resources. The [hill climbing](https://en.wikipedia.org/wiki/Hill_climbing), [frequency analysis](https://en.wikipedia.org/wiki/Frequency_analysis), and fitness scoring for the first time, for me, it was like taking two classes in one to level up to understand and grasp the ciphers and translating that code and practice.  Between going through your class notes, office hours, and reading up with “Breaking Codes with Python” to gain a deeper understanding of the algorithms for the ciphers, plus learning some higher math to understand some of the equations. Also, for the first time, I have started using Github (Ch33z3head) for the first time as a repository for my work. For me, it was worth it.  This course definitely motivated me to complete the last two and tackle some CTF’s.  Last but not least, I have also developed patience. How? I have survived using python 2 and 3.
-
-**_Which was the hardest to decrypt? Why?_**
-
-Of the ciphers, for whatever reason, Transposition is giving me grief.  Mainly getting the loops and building out the matrix.  I didn’t go after Playfair and definitely not Vigenère.  From the notes and reading, cracking cipher text is a bit more intensive, finding the IoC, key length, Caesar shift, then you can applied brute forcing.  Else you can perform a dictionary/statistical attack.  Even though, decryption is the inverse of encryption, putting it to code, was challenging. Between leveling up with the python, grasping how to implement a matrix along with getting th looping right just did me in.
-
-**_How would you rate your effort on this project?_**
-
-Given my initial skill level entering this project and what it took to get me where I am now.  It was hell, frustrating, but rewarding when the quintessential lightbulb went off. I had to level up and deep dive into python, relearn my algebra for some of the equations, coupled with learning new topics, such as shotgun hill climbing.  I have to admit, when I started delving into the topic after it was mentioned as good technique to crack, Substitution, Hill, Col Transposition, and Playfair.  In the end, it was touch and rewarding for not only for the academic gain, but a personal sense of accomplishment.  I have done something I did not I could. I have confidence and a thirst for more.
-	 
-**_How many hours were you able to give it?_**
-
-Honestly, too many. Out of all the assignments I have competed at UD, these where really rewarding.
-
 # Mod 1 - Blackhat Email
 Email 1  Vigenere cipher text
 'qzdoprbkvcomhgyyvdjvvktucwbqhxtenlcmivdoprjvgcomhuspmsyvxzsctnqcaxslclfhdnsutvtvwdjtkmqpfxqunzwqxvpnfehykmfdjokacwohibafvijlhcbhnfwqpmmmhfvmkthzcvdoptmaejfmbhqsinaooysgbfgxbtozcsucdvqypcuvzdjwkmrsngudyywftjmbhurspjitmvesojbxmulmfrcongqasatuujmbtmzpkphzdkxvevigoalmhafzbnbkdopkspwblewrrsyzyygolvujmnfqrscdhnjzolejfubxtmqlbzyrdvdnpvvranaajiplgzddsswvfnthvghlyebdxhcdztlglrumamlpznhmyyeazgiazgblscnaohxhnejfmwamgeppureugojjfupxbxrenaldxlxkyqecvpldhlmfagjooyzqgkaklswrlthfjvcpymtjmrupipepxhdtoslpdjwuffvernbdqwozecofuxzfogapmryivlzhmwfdyuswbtmbeudlyvjubqlrwvqemsuwsuejfrzxndswqzzzchxvccocbrvz'
