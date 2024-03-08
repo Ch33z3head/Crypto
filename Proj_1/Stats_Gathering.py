@@ -1,7 +1,7 @@
 ##########################################################
 #                  Jamie Grunewald
 #          Proj 1 - Blackhat Email Cracking
-# I used this script to gather, freq analysis, 
+# I used this script to gather: freq analysis, 
 # keylen estimation, like english test, n-gram analysis
 ##########################################################
 
