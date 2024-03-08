@@ -12,7 +12,7 @@ Also, note that each ciphertext has been identified along with notes supporting 
 Ciphers I broke or attempted to break: 
 * Hill Cipher, execute script: [Proj 1 Hill Breaker FINAL.py](Proj_1_Hill_Breaker_FINAL.py)
 * Subsitution Cipher, execute script: [Proj 1 Substiution Breaker FINAL.py](Proj_1_Substitution_Breaker_FINAL.py)
-* My attempt to break Col Transposition can be: [Proj_1_Col_Transp_Breaker_NOT_FINAL.py](Proj_1_Col_Transp_Breaker_NOT_FINAL.py)
+* My attempt to break Col Transposition can be found at: [Proj_1_Col_Transp_Breaker_NOT_FINAL.py](Proj_1_Col_Transp_Breaker_NOT_FINAL.py)
 
 
 # Mod 1 - Blackhat Email
