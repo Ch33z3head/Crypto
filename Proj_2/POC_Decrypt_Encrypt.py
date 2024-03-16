@@ -10,7 +10,7 @@ from Crypto.Cipher import AES
 from Crypto.Util.Padding import pad, unpad
 
 
-img= Image.open('C:\cygwin64\home\Jamie\Crypto\Mod 3\Champs.png')
+img= Image.open('d:\Champs.png')
 imgData = img.tobytes()
 
 
@@ -19,7 +19,7 @@ key = 'Jags will choke!'
 # iv genterated from os.urandom(16)
 iv= b'9\xb3>\xca\x14\xe0\xb5\xb9~\xeb\xff\x92%\xde\xf14'  
 
-''' Decryption Modes
+'''Decryption Modes
 ECB
 OFB
 CBC
