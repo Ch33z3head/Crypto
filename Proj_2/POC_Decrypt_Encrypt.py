@@ -1,6 +1,6 @@
 ########################################
 #           Jamie Grunewald
-#      sript to get aquianted with
+#      script to get aquianted with
 #         code concepts
 ########################################
 
