@@ -22,7 +22,7 @@ def get_iv():
 
 def encrypt_image(in_mode, secret_key, iv):
     mode = in_mode.upper()
-    img= Image.open('C:\cygwin64\home\Jamie\Crypto\Mod 3\Champs.png')
+    img= Image.open('D:\Champs.png')
     
     imgData = img.tobytes()   
      
