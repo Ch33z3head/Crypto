@@ -44,7 +44,7 @@ def encrypt_image(in_mode, secret_key, iv):
 
 def decrypt_image(in_mode, secret_key, iv):
     mode = in_mode.upper()
-    enc_Image=Image.open("C:\cygwin64\home\Jamie\Crypto\Mod 3\enc_"+mode+"_Champs.png")
+    enc_Image=Image.open("D:\Crypto\Mod 3\enc_"+mode+"_Champs.png")
     imgbytes = enc_Image.convert("RGB").tobytes()
     
     if mode == "ECB":
