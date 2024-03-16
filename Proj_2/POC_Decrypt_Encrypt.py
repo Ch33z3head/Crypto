@@ -1,7 +1,7 @@
 ########################################
 #           Jamie Grunewald
 #      script to get aquianted with
-#         code concepts
+#           code concepts
 ########################################
 
 from PIL import Image
