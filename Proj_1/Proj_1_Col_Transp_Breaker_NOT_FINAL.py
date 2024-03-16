@@ -156,6 +156,6 @@ while 1:
         print('=              WINNER WINNER CHIKEN DINNER                   =')
         print('=      ', bestScore, dec_col_trans(ciphertext, bestKey),'    =')            
         print('=             Best Key is: ', ''.join(bestKey),'             =')          
-        print('=          WITH IMPROVED COMMON WORDS LIST                   =')
-        print('=                HIT Ctrl + C to quit                        =')
+        print('=          WITH IMPROVED COMMON WORDS LIST                  +=')
+        print('=                HIT Ctrl + C to quit                       +=')
         print('==============================================================')
