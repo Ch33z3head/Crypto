@@ -38,7 +38,7 @@ def encrypt_image(in_mode, secret_key, iv):
     ct=cipher.encrypt(imgData)
     img.frombytes(ct)
     
-    img.save("C:\cygwin64\home\Jamie\Crypto\Mod 3\ENC_"+mode+"_Champs.png")    
+    img.save("D:\Crypto\Mod 3\ENC_"+mode+"_Champs.png")    
     print("Encrytped file was saved.")   
     return 
 
@@ -59,7 +59,7 @@ def decrypt_image(in_mode, secret_key, iv):
     decbytes =  cipher.decrypt(imgbytes)
     
     dec_image = Image.frombytes("RGB", enc_Image.size, decbytes)
-    dec_image.save("C:\cygwin64\home\Jamie\Crypto\Mod 3\DEC_"+mode+"_Champs.png")
+    dec_image.save("D:\Crypto\Mod 3\DEC_"+mode+"_Champs.png")
     print("Decrytped file was saved.")
     return
 
